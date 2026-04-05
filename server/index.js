@@ -1,5 +1,6 @@
 /** @format */
 
+import "dotenv/config";
 import express from "express";
 import session from "express-session";
 import passport from "passport";
